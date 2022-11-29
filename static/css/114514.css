@@ -1,0 +1,7 @@
+.sun{
+	display: inline;
+}
+.sun:hover{
+	text-decoration:underline;
+	display: inline;
+}
